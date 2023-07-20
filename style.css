@@ -1,0 +1,98 @@
+#container{
+    margin-top: 30px;
+    margin-left:auto;
+    margin-right:auto;
+    width: 615px;
+    border-style: hidden;
+    border-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 13px;
+}
+#genero{
+    width: 176px;
+}
+#data{
+    width: 172px;
+}
+#cpf{
+    width: 267px;
+}
+#email{
+    width: 267px;
+}
+#confirmaremail{
+    width: 267px;
+}
+#senha{
+    width: 267px;
+}
+#confirmarsenha{
+    width: 267px;
+}
+header{
+    text-align: center;
+    height: 30px;
+    background-color: rgb(235, 235, 235);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(11, 161, 161);
+    border-color: gray;
+    border-style:hidden;
+    border-radius: 5px;
+    border-width: 2px;
+    font-size: 23px;
+
+}
+#nome{
+    width: 267px;
+}
+#sobrenome{
+    width: 267px;
+}
+footer{
+    text-align: right;
+}
+.button{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 80px;
+    height: 25px;
+    border-style: hidden;
+    color: rgb(11, 161, 161);
+    background-color: g;
+    border-radius: 5px;
+}
+fieldset{
+    border-color: rgb(209, 209, 209);
+    border-style: solid;
+    border-radius: 5px;
+}
+input{
+    border-color: rgb(209, 209, 209);
+    border-style:solid;
+    border-radius: 5px;
+    height: 20px;
+    margin-bottom: 3px;
+    margin-right: 7.5px;
+    margin-left: 7.5px;
+}
+select{
+    border-color: rgb(209, 209, 209);
+    border-style:solid;
+    border-radius: 5px;
+    border-width: 2.1px;
+    height: 26px;
+    margin-bottom: 3.2px;
+    margin-right: 7.5px;
+    margin-left: 7.5px;
+}
+label{
+    margin-right: 7.5px;
+    margin-left: 7.5px;
+}
+#form-login{
+    margin-top: 10px;
+}
+#form-contato{
+    margin-top: 10px;
+}
